@@ -12,8 +12,15 @@ What do we provide in this repository:
 
 This work is focused on building cross-lingual emotion models for 3 basic emotions anger, fear, and joy. We evaluate our methods in 6 target languages: Farsi, Arabic, Spanish, Ilocano, Odia, and Azerbaijani as spoken by a minority community in Iran. These languages are from different language families, typologies, and genres. They are also different in the level of their corresponding resource availability. Arabic and Spanish are moderate resource languages. Ilocano, Odia, and Farsi are low-resource languages and Azerbaijani is an endangered language. More details are provided in our paper.
 
-## Paper
-TBD
+## Paper to Cite
+```
+@article{tafreshi2024emotion,
+  title={Emotion Classification in Low and Moderate Resource Languages},
+  author={Tafreshi, Shabnam and Vatsal, Shubham and Diab, Mona},
+  journal={arXiv preprint arXiv:2402.18424},
+  year={2024}
+}
+```
 
 ## Contacts
 Please contact Shabnam Tafreshi @ shabnam.tafreshi@gmail.com & Shubham Vatsal @ sv2128@nyu.edu.
